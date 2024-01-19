@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 sketchbook-react-frontend/node_modules
-sketchbook-react-backend/node_modules
+sketchbook-express-backend/node_modules
 /.pnp
 .pnp.js
 

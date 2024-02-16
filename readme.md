@@ -39,5 +39,3 @@
    - **Express Backend Repository:**
       - **URL:** [Sketchbook Express Backend](https://github.com/3ichael7ambert/sketchbook-express-backend/tree/ae692228b49ab90cea685562a356f8089ffae8eb)
       - **Description:** The backend repository contains the Express server code responsible for handling API requests. Developers can contribute to backend features, database interactions, and overall server functionality.
-
-**Note:** Ensure that appropriate authentication and authorization mechanisms are in place to protect user data and drawings. Additionally, the provided URLs and endpoints should be used responsibly and in accordance with the project's terms of service.
